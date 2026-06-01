@@ -1,5 +1,8 @@
 # -E-Commerce-Customer-Behavior-Analytics-Project-5-
 
+**🔗 Click Here to View Full Interactive Jupyter Notebook**
+https://nbviewer.org/github/Bhagyashri-Data/-E-Commerce-Customer-Behavior-Analytics-Project-5-/blob/main/E-Commerce%20%26%20Customer%20Behavior%20Analytics.ipynb
+
 ## 📌 Project 5: Conclusion & Key Insights
 
 ### 📊 Business Insights Delivered
